@@ -14,6 +14,9 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?, etc.
 
+![image](https://github.com/DavinaAlozie/Vrinda-Store-Data-Analysis/assets/138707279/514d77fa-485f-4872-ada6-4149a0dc361b)
+
+
 # Sample Insights
 1. Women are more likely to buy compared to men (~65%)
 2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
